@@ -1,14 +1,14 @@
 {
   "_from": "git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
-  "_id": "stratum-pool@0.1.6",
+  "_id": "stratum-pool-bci@0.1.6",
   "_inBundle": false,
-  "_location": "/stratum-pool",
+  "_location": "/stratum-pool-bci",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "stratum-pool@git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
+    "raw": "stratum-pool-bci@git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
     "name": "stratum-pool",
-    "escapedName": "stratum-pool",
+    "escapedName": "stratum-pool-bci",
     "rawSpec": "git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
     "saveSpec": "git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
     "fetchSpec": "https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
@@ -18,7 +18,7 @@
     "/"
   ],
   "_resolved": "git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git#c66ba109e7de88edc46dd70f36aa9c7cea7d7add",
-  "_spec": "stratum-pool@git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
+  "_spec": "stratum-pool-bci@git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
   "_where": "/home/bcinode2/z-nomp-bitcoin-interest",
   "author": {
     "name": "Matthew Little"
@@ -65,7 +65,7 @@
   ],
   "license": "GPL-2.0",
   "main": "lib/index.js",
-  "name": "stratum-pool",
+  "name": "stratum-pool-bci",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git"
