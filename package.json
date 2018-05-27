@@ -1,30 +1,30 @@
 {
-  "_from": "git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
+  "_from": "git+https://github.com/brad1121/node-stratum-pool-bci.git",
   "_id": "stratum-pool-bci@0.1.6",
   "_inBundle": false,
   "_location": "/stratum-pool-bci",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "stratum-pool-bci@git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
-    "name": "stratum-pool",
+    "raw": "stratum-pool-bci@git+https://github.com/brad1121/node-stratum-pool-bci.git",
+    "name": "stratum-pool-bci",
     "escapedName": "stratum-pool-bci",
-    "rawSpec": "git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
-    "saveSpec": "git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
-    "fetchSpec": "https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
+    "rawSpec": "git+https://github.com/brad1121/node-stratum-pool-bci.git",
+    "saveSpec": "git+https://github.com/brad1121/node-stratum-pool-bci.git",
+    "fetchSpec": "https://github.com/brad1121/node-stratum-pool-bci.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git#c66ba109e7de88edc46dd70f36aa9c7cea7d7add",
-  "_spec": "stratum-pool-bci@git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git",
+  "_resolved": "git+https://github.com/brad1121/node-stratum-pool-bci.git#c66ba109e7de88edc46dd70f36aa9c7cea7d7add",
+  "_spec": "stratum-pool-bci@git+https://github.com/brad1121/node-stratum-pool-bci.git",
   "_where": "/home/bcinode2/z-nomp-bitcoin-interest",
   "author": {
     "name": "Matthew Little"
   },
   "bugs": {
-    "url": "https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci/issues"
+    "url": "https://github.com/brad1121/node-stratum-pool-bci/issues"
   },
   "bundleDependencies": false,
   "contributors": [
@@ -52,7 +52,7 @@
   "engines": {
     "node": ">=7"
   },
-  "homepage": "https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci",
+  "homepage": "https://github.com/brad1121/node-stratum-pool-bci",
   "keywords": [
     "stratum",
     "mining",
@@ -68,7 +68,7 @@
   "name": "stratum-pool-bci",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BitcoinInterestOfficial/node-stratum-pool-bci.git"
+    "url": "git+https://github.com/brad1121/node-stratum-pool-bci.git"
   },
   "version": "0.1.6"
 }
